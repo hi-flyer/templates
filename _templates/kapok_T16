@@ -3,7 +3,7 @@ date_added: 2020-01-26
 title: Kapok T16
 model: 
 image: https://user-images.githubusercontent.com/5904370/73145163-45ee0200-40ac-11ea-9256-312c0565669f.png
-template: '{"NAME":"tiltech-outlet","GPIO":[0,31,0,19,32,0,0,0,21,22,0,0,0],"FLAG":0,"BASE":18}' 
+template: '{"NAME":"tiltech-t16","GPIO":[0,56,0,17,82,0,0,0,21,22,0,0,0],"FLAG":0,"BASE":18}' 
 link: https://www.amazon.com/dp/B07GPCQGDF
 link2: 
 mlink: http://www.tiltech.cn/shop/featured/smart-wall-outlet/
